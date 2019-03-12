@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">geoquiz2019</string>
+    <string name="true_button">vrai</string>
+    <string name="false_button">pas vrai</string>
+</resources>
